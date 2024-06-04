@@ -1,0 +1,58 @@
+{
+    "movies": [
+      {
+        "title": "Maine Pyar Kiya",
+        "genre": "drama,musical,romance",
+        "language": "Hindi",
+        "director": "Sooraj R. Barjatya",
+        "releaseDate": "29/12/1989",
+        "likes": 427,
+        "dislikes": 28
+      },
+      {
+        "title": "Bajrangi Bhaijaan",
+        "genre": "action,comedy,drama",
+        "language": "Hindi,Urdu",
+        "director": "Kabir Khan",
+        "releaseDate": "17/07/2015",
+        "likes": 393,
+        "dislikes": 13
+      },
+      {
+        "title": "Dilwale Dulhania Le Jayenge",
+        "genre": "comedy,drama,romance",
+        "language": "Hindi",
+        "director": "Aditya Chopra",
+        "releaseDate": "20/10/1995",
+        "likes": 1256,
+        "dislikes": 45
+      },
+      {
+        "title": "3 Idiots",
+        "genre": "comedy,drama",
+        "language": "Hindi",
+        "director": "Rajkumar Hirani",
+        "releaseDate": "25/12/2009",
+        "likes": 987,
+        "dislikes": 32
+      },
+      {
+        "title": "Dhamaal",
+        "genre": "comedy",
+        "language": "Hindi",
+        "director": "Indra Kumar",
+        "releaseDate": "21/09/2007",
+        "likes": 654,
+        "dislikes": 76
+      },
+      {
+        "title": "Gully Boy",
+        "genre": "drama,music",
+        "language": "Hindi",
+        "director": "Zoya Akhtar",
+        "releaseDate": "14/02/2019",
+        "likes": 842,
+        "dislikes": 23
+      }
+    ]
+  }
